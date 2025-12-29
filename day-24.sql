@@ -28,7 +28,7 @@ WITH users_completed_goals AS (
   WHERE goal_status = 'Completed'
   GROUP BY user_id, user_type
 )
-SELECT  -- sonra user_type bazında bu "Completed Goals" bulunur:
+SELECT  -- sonra user_type'ları gruplayarak ortalama "Completed Goals" bulunur:
   user_type,
   AVG(complited_goals) AS average_complited_goals
 FROM users_completed_goals
