@@ -42,7 +42,3 @@ JOIN cocoa_types ct
 JOIN locations l
   ON l.location_id = b.location_id
 
-
-
-  
-GROUP BY 1,2
