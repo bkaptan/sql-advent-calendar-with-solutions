@@ -1,38 +1,12 @@
-# Interview Master – SQL Advent Calendar Challenge🎄🗂️
+# SQL Advent Calendar 2025
 
-Bu repo, Interview Master SQL Advent Calendar yılbaşı challenge kapsamında
-çözdüğüm 24 günlük SQL görevlerinin çözüm sorgularını içermektedir.
+This repository contains my solutions to Interview Master's 24-day SQL Advent Calendar challenge.
 
-Bu çalışma sürecinde hem SQL pratiğimi geliştirmeyi hem de farklı veri senaryolarında
-problem çözme bakış açımı güçlendirmeyi hedefledim.
 
----
 
-## 🔍 İçerik
-- 24 adet günlük SQL sorusu
-- Her gün için yazdığım çözüm sorguları
-- Farklı zorluk seviyelerinde örnekler
+## About the Challenge
 
----
+The SQL Advent Calendar is a festive coding challenge featuring 24 days of SQL problems, hosted by Interview Master.
 
-## 🛠️ Odaklanılan SQL Konuları
-- Temel SQL sorguları
-- JOIN yapıları
-- GROUP BY & HAVING
-- Window Functions
-- Veri filtreleme ve analiz odaklı sorgular
+Learn more at [interviewmaster.ai/advent](https://www.interviewmaster.ai/advent)
 
----
-
-## 📂 Yapı
-Tüm SQL çözümleri `day-01.sql` – `day-24.sql` formatında dosyalanmıştır.
-
----
-
-## 🏅 Sertifika
-Bu challenge başarıyla tamamlanmış ve sertifika kazanılmıştır.
-
----
-
-## 🙌 Teşekkür
-Bu deneyimi sağlayan Interview Master ekibine teşekkürler.
